@@ -15,6 +15,6 @@ This project was designed to explore whether addtional exploratory data visualiz
 
 This is useful because real customers of the service today receive an excel file with several columns of data. For many customers familiar with the service, they will have enough knowledge to scan and interpret the data themselves to some extent. However for other audiences within customer organizations, they are unlikely to engage with the excel file and thus the service's potential remains limited. If the data is presented visually through an explanatory dataviz layer however, this could facilitate more constructive, cross-functional conversations that lead to actions being taken and value being added.
 
-*NOTES*
+*FYI*
 
 Attached a PDF copy of the jupyter notebook used for data collection and cleaning since the real names of Mobile Operators and SMSC Owners is confidential customer information. 
