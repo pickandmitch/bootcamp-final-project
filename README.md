@@ -17,4 +17,4 @@ This is useful because real customers of the service today receive an excel file
 
 *FYI*
 
-Attached a PDF copy of the jupyter notebook used for data collection and cleaning since the real names of Mobile Operators and SMSC Owners is confidential customer information. 
+Attached a PDF copy of the jupyter notebook used for data collection and cleaning since the real names of Mobile Operators and SMSC Owners is confidential customer information.
